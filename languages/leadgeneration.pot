@@ -1,0 +1,1892 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Lead Generation\n"
+"POT-Creation-Date: 2018-10-26 15:48+0300\n"
+"PO-Revision-Date: 2018-10-26 15:48+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: leadgeneration.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/buttons/add-new/button.php:17
+msgid "Type"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:21
+msgid "Button appearance"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:25
+msgid "Rotate button"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:33
+#: admin/buttons/add-new/settings/button.php:160
+#: admin/popups/add-new/settings/stylebtn.php:19
+#: admin/popups/add-new/stylebtn.php:58
+msgid "Text"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:37
+msgid "Text location"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:48
+#: admin/buttons/add-new/settings/button.php:45
+#: admin/popups/add-new/settings/stylebtn.php:20
+msgid "Icon"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:52
+msgid "Rotate icon"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:62
+msgid "Class"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:66
+msgid "ID"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:70
+msgid "Button URL"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:76 admin/buttons/add-new/button.php:79
+#: admin/popups/add-new/style.php:63 admin/popups/add-new/style.php:66
+#: admin/popups/add-new/stylebtn.php:27 admin/popups/add-new/stylebtn.php:30
+msgid "Location"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:84 admin/popups/add-new/style.php:71
+#: admin/popups/add-new/stylebtn.php:35
+msgid "Top"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:88 admin/popups/add-new/style.php:75
+#: admin/popups/add-new/stylebtn.php:39
+msgid "Bottom"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:94 admin/popups/add-new/style.php:81
+#: admin/popups/add-new/stylebtn.php:45
+msgid "Left"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:98 admin/popups/add-new/style.php:85
+#: admin/popups/add-new/stylebtn.php:49
+msgid "Right"
+msgstr ""
+
+#: admin/buttons/add-new/button.php:109
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Get more with Notification Badge</a>"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:21
+msgid "Standart"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:22
+msgid "Floating"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:29
+msgid "Select the type of button you want to use:"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:31
+msgid ""
+"<strong>Standart</strong> - inserting a button only via shortcode into the "
+"content;"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:32
+msgid "<strong>Floating</strong> - fixed floating button on the page;"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:43
+msgid "Only Text"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:44
+msgid "Text & Icon"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:52
+msgid "Set the button appearance."
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:62
+#: admin/popups/add-new/settings/style.php:61
+msgid "Top Left location on the page"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:63
+#: admin/popups/add-new/settings/style.php:62
+msgid "Top Center location on the page"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:64
+#: admin/popups/add-new/settings/style.php:63
+msgid "Top Right location on the page"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:65
+#: admin/popups/add-new/settings/style.php:64
+msgid "Bottom Left location on the page"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:66
+#: admin/popups/add-new/settings/style.php:65
+msgid "Bottom Center location on the page"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:67
+#: admin/popups/add-new/settings/style.php:66
+msgid "Bottom Right location on the page"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:68
+#: admin/popups/add-new/settings/style.php:67
+msgid "Left location on the page"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:69
+#: admin/popups/add-new/settings/style.php:68
+msgid "Right location on the page"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:76
+#: admin/popups/add-new/settings/style.php:75
+msgid "Specify modal window location on screen."
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:95
+#: admin/popups/add-new/settings/style.php:94
+msgid "Distance from the top edge of the screen in px."
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:114
+#: admin/popups/add-new/settings/style.php:113
+msgid "Distance from the bottom  edge of the screen in px."
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:133
+#: admin/popups/add-new/settings/style.php:132
+msgid "Distance from the left edge of the screen in px."
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:152
+#: admin/popups/add-new/settings/style.php:151
+msgid "Distance from the right edge of the screen in px."
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:168
+msgid "Enter Text for button."
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:178
+#: admin/buttons/add-new/settings/button.php:211
+msgid "none"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:179
+#: admin/buttons/add-new/settings/button.php:212
+msgid "90&deg;"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:180
+#: admin/buttons/add-new/settings/button.php:213
+msgid "180&deg;"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:181
+#: admin/buttons/add-new/settings/button.php:214
+msgid "270&deg;"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:201
+msgid "Select the Icon for button"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:225
+msgid "Before Icon"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:226
+msgid "After Icon"
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:231
+msgid "Set where the button text will be displayed."
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:244
+msgid "Add extra class to the button."
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:257
+msgid "Add ID to the button."
+msgstr ""
+
+#: admin/buttons/add-new/settings/button.php:270
+msgid "Enter URL for the button or leave empty."
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:23
+#: admin/popups/add-new/settings/main.php:38
+msgid "All posts and pages"
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:24
+#: admin/popups/add-new/settings/main.php:39
+msgid "All posts"
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:25
+#: admin/popups/add-new/settings/main.php:40
+msgid "All pages"
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:26
+#: admin/popups/add-new/settings/main.php:41
+msgid "Posts with certain IDs"
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:27
+#: admin/popups/add-new/settings/main.php:42
+msgid "Pages with certain IDs"
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:28
+#: admin/popups/add-new/settings/main.php:43
+msgid "Posts in Categorys with IDs"
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:29
+#: admin/popups/add-new/settings/main.php:44
+msgid "All posts. except..."
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:30
+#: admin/popups/add-new/settings/main.php:45
+msgid "All pages, except..."
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:31
+#: admin/popups/add-new/settings/main.php:46
+msgid "Where shortcode is inserted"
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:34
+#: admin/popups/add-new/settings/main.php:49
+msgid "Taxonomy"
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:48
+#: admin/popups/add-new/settings/main.php:63
+msgid "Choose a condition to target to specific content."
+msgstr ""
+
+#: admin/buttons/add-new/settings/main.php:75
+#: admin/popups/add-new/settings/main.php:90
+msgid "Enter IDs, separated by comma."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:25
+msgid "Specify button width. Can be:"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:27
+msgid ""
+"<strong>any integer value in px</strong> (for example: \"400px\" will set "
+"button width to 400px);"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:28
+msgid ""
+"<strong>any integer value in %</strong> (for example: \"80%\" will set "
+"button width to 80% of the window width);"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:29
+msgid "<strong>auto</strong> - the browser calculates the button width."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:46
+msgid "Specify button height. Can be:"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:48
+msgid ""
+"<strong>any integer value in px</strong> (for example: \"400px\" will set "
+"button height to 400px);"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:49
+msgid ""
+"<strong>any integer value in %</strong> (for example: \"80%\" will set "
+"button height to 80% of the window height);"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:50
+msgid "<strong>auto</strong> - the browser calculates the button height."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:70
+#: admin/popups/add-new/settings/style.php:50
+msgid ""
+"The z-index property specifies the stack order of an element. An element "
+"with greater stack order is always in front of an element with a lower stack "
+"order."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:82
+msgid "Specify button text color."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:95
+msgid "Specify button background color."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:108
+msgid "Specify button text color when hover on the button."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:121
+msgid "Specify button background color when hover on the button."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:138
+msgid "Set the radius of the corners of the element."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:140
+msgid ""
+"any integer value in px (for example: \"5px\" will set button corners radius "
+"to 5px)"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:141
+msgid "if you enter 0, the button corners will have not radius"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:142
+msgid ""
+"when four values are specified, the radius apply to the top, right, bottom, "
+"and left in that order (clockwise). Example: 5px 0 5px 5px"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:153
+#: admin/buttons/add-new/settings/style.php:203
+#: admin/forms/add-new/settings/field_style.php:189
+#: admin/forms/add-new/settings/field_style.php:239
+#: admin/forms/add-new/settings/style.php:146
+#: admin/forms/add-new/settings/style.php:196
+#: admin/popups/add-new/settings/style.php:311
+#: admin/popups/add-new/settings/style.php:361
+msgid "None"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:154
+#: admin/forms/add-new/settings/field_style.php:190
+#: admin/forms/add-new/settings/style.php:147
+#: admin/popups/add-new/settings/style.php:312
+msgid "Solid"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:155
+#: admin/forms/add-new/settings/field_style.php:191
+#: admin/forms/add-new/settings/style.php:148
+#: admin/popups/add-new/settings/style.php:313
+msgid "Dotted"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:156
+#: admin/forms/add-new/settings/field_style.php:192
+#: admin/forms/add-new/settings/style.php:149
+#: admin/popups/add-new/settings/style.php:314
+msgid "Dashed"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:157
+#: admin/forms/add-new/settings/field_style.php:193
+#: admin/forms/add-new/settings/style.php:150
+#: admin/popups/add-new/settings/style.php:315
+msgid "Double"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:158
+#: admin/forms/add-new/settings/field_style.php:194
+#: admin/forms/add-new/settings/style.php:151
+#: admin/popups/add-new/settings/style.php:316
+msgid "Groove"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:159
+#: admin/buttons/add-new/settings/style.php:205
+#: admin/forms/add-new/settings/field_style.php:195
+#: admin/forms/add-new/settings/field_style.php:241
+#: admin/forms/add-new/settings/style.php:152
+#: admin/forms/add-new/settings/style.php:198
+#: admin/popups/add-new/settings/style.php:317
+#: admin/popups/add-new/settings/style.php:363
+msgid "Inset"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:160
+#: admin/buttons/add-new/settings/style.php:204
+#: admin/forms/add-new/settings/field_style.php:196
+#: admin/forms/add-new/settings/field_style.php:240
+#: admin/forms/add-new/settings/style.php:153
+#: admin/forms/add-new/settings/style.php:197
+#: admin/popups/add-new/settings/style.php:318
+#: admin/popups/add-new/settings/style.php:362
+msgid "Outset"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:161
+#: admin/forms/add-new/settings/field_style.php:197
+#: admin/forms/add-new/settings/style.php:154
+#: admin/popups/add-new/settings/style.php:319
+msgid "Ridge"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:168
+msgid "Choose a border style for your button."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:211
+#: admin/forms/add-new/settings/field_style.php:247
+#: admin/forms/add-new/settings/style.php:204
+#: admin/popups/add-new/settings/style.php:369
+msgid "Set the box shadow."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:213
+#: admin/forms/add-new/settings/field_style.php:249
+#: admin/forms/add-new/settings/style.php:206
+#: admin/popups/add-new/settings/style.php:371
+msgid "None - no shadow is displayed"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:214
+msgid "Outset - outer shadow"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:215
+msgid "Inset - inner shadow"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:234
+#: admin/forms/add-new/settings/field_style.php:270
+#: admin/forms/add-new/settings/style.php:227
+#: admin/popups/add-new/settings/style.php:392
+msgid ""
+"The horizontal offset of the shadow. A positive value puts the shadow on the "
+"right side of the box, a negative value puts the shadow on the left side of "
+"the box."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:252
+#: admin/forms/add-new/settings/field_style.php:288
+#: admin/forms/add-new/settings/style.php:245
+#: admin/popups/add-new/settings/style.php:410
+msgid ""
+"The vertical offset of the shadow. A positive value puts the shadow below "
+"the box, a negative value puts the shadow above the box."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:270
+#: admin/forms/add-new/settings/field_style.php:306
+#: admin/forms/add-new/settings/style.php:263
+#: admin/popups/add-new/settings/style.php:428
+msgid ""
+"The blur radius. The higher the number, the more blurred the shadow will be."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:288
+#: admin/forms/add-new/settings/field_style.php:324
+#: admin/forms/add-new/settings/style.php:281
+#: admin/popups/add-new/settings/style.php:446
+msgid ""
+"The spread radius. A positive value increases the size of the shadow, a "
+"negative value decreases the size of the shadow."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:303
+#: admin/forms/add-new/settings/field_style.php:339
+#: admin/forms/add-new/settings/style.php:296
+#: admin/popups/add-new/settings/style.php:461
+msgid "The color of the shadow."
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:322
+msgid "Set the font size for button in px"
+msgstr ""
+
+#: admin/buttons/add-new/settings/style.php:332
+#: admin/forms/add-new/settings/field_style.php:93
+#: admin/forms/add-new/settings/style.php:326
+#: admin/popups/add-new/settings/style.php:509
+#: admin/popups/add-new/settings/style.php:596
+#: admin/popups/add-new/settings/stylebtn.php:211
+msgid "Use Your Themes"
+msgstr ""
+
+#: admin/buttons/add-new/settings/targeting.php:23
+#: admin/popups/add-new/settings/targeting.php:23
+msgid "Specify the window breakpoint in px when the popup will be shown."
+msgstr ""
+
+#: admin/buttons/add-new/settings/targeting.php:51
+#: admin/popups/add-new/settings/targeting.php:51
+msgid "Specify the window breakpoint ( mix width) in px."
+msgstr ""
+
+#: admin/buttons/add-new/style.php:18 admin/forms/add-new/button_style.php:18
+#: admin/forms/add-new/modal.php:41 admin/forms/add-new/style.php:19
+#: admin/popups/add-new/style.php:33
+msgid "Width"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:22 admin/popups/add-new/style.php:37
+msgid "Height"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:27 admin/popups/add-new/style.php:22
+msgid "Z-index"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:34 admin/buttons/add-new/style.php:79
+#: admin/buttons/add-new/style.php:121 admin/forms/add-new/button_style.php:22
+#: admin/forms/add-new/field_style.php:56
+#: admin/forms/add-new/field_style.php:88
+#: admin/forms/add-new/field_style.php:130 admin/forms/add-new/style.php:67
+#: admin/forms/add-new/style.php:109 admin/forms/add-new/style.php:144
+#: admin/popups/add-new/style.php:113 admin/popups/add-new/style.php:155
+#: admin/popups/add-new/style.php:197 admin/popups/add-new/stylebtn.php:96
+msgid "Color"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:38 admin/forms/add-new/button_style.php:26
+#: admin/forms/add-new/field_style.php:26 admin/popups/add-new/stylebtn.php:108
+msgid "Background"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:47 admin/popups/add-new/stylebtn.php:104
+msgid "Hover Color"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:51 admin/popups/add-new/stylebtn.php:112
+msgid "Hover Background"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:59 admin/forms/add-new/field_style.php:68
+#: admin/forms/add-new/style.php:47 admin/popups/add-new/style.php:93
+msgid "Border"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:63 admin/forms/add-new/field_style.php:72
+#: admin/forms/add-new/style.php:51 admin/popups/add-new/style.php:97
+#: admin/popups/add-new/stylebtn.php:92
+msgid "Radius"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:68 admin/forms/add-new/field_style.php:77
+#: admin/forms/add-new/style.php:56 admin/popups/add-new/style.php:102
+msgid "Style"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:83 admin/forms/add-new/field_style.php:92
+#: admin/forms/add-new/style.php:71 admin/popups/add-new/style.php:117
+msgid "Thickness"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:94 admin/forms/add-new/field_style.php:103
+#: admin/forms/add-new/style.php:82 admin/popups/add-new/style.php:128
+msgid "Drop Shadow"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:97 admin/forms/add-new/field_style.php:106
+#: admin/forms/add-new/style.php:85 admin/popups/add-new/style.php:131
+msgid "Shadow"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:101 admin/forms/add-new/field_style.php:110
+#: admin/forms/add-new/style.php:89 admin/popups/add-new/style.php:135
+msgid "Horizontal Position"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:105 admin/forms/add-new/field_style.php:114
+#: admin/forms/add-new/style.php:93 admin/popups/add-new/style.php:139
+msgid "Vertical Position"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:113 admin/forms/add-new/field_style.php:122
+#: admin/forms/add-new/style.php:101 admin/popups/add-new/style.php:147
+msgid "Blur"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:117 admin/forms/add-new/field_style.php:126
+#: admin/forms/add-new/style.php:105 admin/popups/add-new/style.php:151
+msgid "Spread"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:129 admin/forms/add-new/field_style.php:33
+msgid "Font"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:133 admin/forms/add-new/field_style.php:37
+#: admin/forms/add-new/style.php:121 admin/popups/add-new/style.php:167
+#: admin/popups/add-new/style.php:213 admin/popups/add-new/stylebtn.php:73
+msgid "Font Size"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:137 admin/forms/add-new/field_style.php:41
+#: admin/forms/add-new/style.php:125 admin/popups/add-new/style.php:175
+#: admin/popups/add-new/style.php:217 admin/popups/add-new/stylebtn.php:77
+msgid "Font Family"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:146 admin/forms/add-new/field_style.php:45
+#: admin/forms/add-new/style.php:129 admin/popups/add-new/style.php:182
+#: admin/popups/add-new/stylebtn.php:81
+msgid "Font Weight"
+msgstr ""
+
+#: admin/buttons/add-new/style.php:150 admin/forms/add-new/field_style.php:52
+#: admin/forms/add-new/style.php:136 admin/popups/add-new/style.php:186
+#: admin/popups/add-new/stylebtn.php:88
+msgid "Font Style"
+msgstr ""
+
+#: admin/buttons/add-new/targeting.php:26 admin/forms/add-new/targeting.php:28
+#: admin/popups/add-new/targeting.php:26
+msgid "Analytics"
+msgstr ""
+
+#: admin/buttons/add-new/targeting.php:30 admin/forms/add-new/targeting.php:32
+#: admin/popups/add-new/targeting.php:30
+msgid "Views"
+msgstr ""
+
+#: admin/buttons/add-new/targeting.php:31 admin/popups/add-new/targeting.php:31
+msgid "Actions"
+msgstr ""
+
+#: admin/buttons/add-new/targeting.php:32 admin/forms/add-new/targeting.php:34
+#: admin/popups/add-new/targeting.php:32
+msgid "Conversion"
+msgstr ""
+
+#: admin/buttons/add-new/targeting.php:33 admin/forms/add-new/targeting.php:35
+#: admin/popups/add-new/targeting.php:33
+msgid "Reset"
+msgstr ""
+
+#: admin/buttons/add-new/targeting.php:40 admin/forms/add-new/targeting.php:42
+#: admin/popups/add-new/targeting.php:40
+msgid "Targeting"
+msgstr ""
+
+#: admin/buttons/add-new/targeting.php:44 admin/popups/add-new/targeting.php:44
+msgid "Show on devices"
+msgstr ""
+
+#: admin/buttons/add-new/targeting.php:45 admin/popups/add-new/targeting.php:45
+msgid "Don't show on screens more"
+msgstr ""
+
+#: admin/buttons/add-new/targeting.php:47 admin/popups/add-new/targeting.php:47
+msgid "Don't show on screens less"
+msgstr ""
+
+#: admin/buttons/add-new/targeting.php:55 admin/popups/add-new/targeting.php:55
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">More advanced targeting</a>"
+msgstr ""
+
+#: admin/buttons/add_new.php:23
+msgid "Register a button name"
+msgstr ""
+
+#: admin/buttons/add_new.php:28
+msgid "Button"
+msgstr ""
+
+#: admin/buttons/add_new.php:52 admin/buttons/class-list-table.php:73
+#: admin/forms/add_new.php:63 admin/forms/class-list-table.php:73
+#: admin/mails/class-mails-list-table.php:79 admin/mails/view_mail.php:62
+#: admin/popups/add_new.php:58 admin/popups/class-list-table.php:73
+msgid "Delete"
+msgstr ""
+
+#: admin/buttons/add_new.php:75
+msgid "Button Settings"
+msgstr ""
+
+#: admin/buttons/add_new.php:76 admin/forms/add_new.php:87
+msgid "Button Style"
+msgstr ""
+
+#: admin/buttons/class-list-table.php:71 admin/forms/class-list-table.php:71
+#: admin/popups/class-list-table.php:71
+msgid "Edit"
+msgstr ""
+
+#: admin/buttons/class-list-table.php:72 admin/forms/class-list-table.php:72
+#: admin/popups/class-list-table.php:72
+msgid "Duplicate"
+msgstr ""
+
+#: admin/buttons/class-list-table.php:238
+msgid "Untitle Button"
+msgstr ""
+
+#: admin/buttons/include-data.php:23 admin/buttons/main.php:47
+#: admin/forms/include-data.php:23 admin/forms/main.php:48
+#: admin/popups/include-data.php:23 admin/popups/main.php:50
+msgid "Update"
+msgstr ""
+
+#: admin/buttons/include-data.php:36 admin/buttons/include-data.php:46
+#: admin/forms/include-data.php:36 admin/forms/include-data.php:46
+#: admin/popups/include-data.php:36 admin/popups/include-data.php:46
+msgid "Save"
+msgstr ""
+
+#: admin/buttons/list.php:19 admin/forms/list.php:19 admin/mails/list.php:19
+#: admin/popups/list.php:19
+msgid "Search"
+msgstr ""
+
+#: admin/buttons/main.php:19 admin/forms/main.php:19 admin/mails/main.php:19
+#: admin/mails/main.php:41 admin/mails/main.php:44 admin/popups/main.php:19
+msgid "List"
+msgstr ""
+
+#: admin/buttons/main.php:20 admin/forms/main.php:20 admin/popups/main.php:20
+msgid "Add new"
+msgstr ""
+
+#: admin/buttons/main.php:21 admin/forms/main.php:21 admin/popups/main.php:21
+msgid "Extensions"
+msgstr ""
+
+#: admin/buttons/main.php:22 admin/forms/main.php:22 admin/general/main.php:67
+#: admin/popups/main.php:22
+msgid "Support"
+msgstr ""
+
+#: admin/buttons/main.php:37
+msgid "Buttons"
+msgstr ""
+
+#: admin/buttons/main.php:38 admin/popups/main.php:38
+msgid "Add New"
+msgstr ""
+
+#: admin/buttons/preview/style.php:125
+#: admin/popups/add-new/settings/stylebtn.php:126
+#: admin/popups/add-new/settings/stylebtn.php:128
+#: admin/popups/generator/style.php:135 admin/popups/preview/style.php:125
+msgid "CLOSE"
+msgstr ""
+
+#: admin/class-admin.php:314
+#, php-format
+msgid ""
+"Thank you for using <a href=\"%1$s\" target=\"_blank\">Lead Generation</a>! "
+"Please <a href=\"%2$s\" target=\"_blank\">rate us on WordPress.org</a>"
+msgstr ""
+
+#: admin/forms/add-new/button_style.php:33
+msgid "Background Hover"
+msgstr ""
+
+#: admin/forms/add-new/button_style.php:37
+msgid "Button alignment"
+msgstr ""
+
+#: admin/forms/add-new/button_style.php:41
+msgid "Text alignment"
+msgstr ""
+
+#: admin/forms/add-new/field_style.php:18 admin/forms/add-new/style.php:34
+#: admin/popups/add-new/style.php:53
+msgid "Margin"
+msgstr ""
+
+#: admin/forms/add-new/field_style.php:22 admin/forms/add-new/style.php:38
+#: admin/popups/add-new/style.php:57 admin/popups/add-new/stylebtn.php:62
+msgid "Padding"
+msgstr ""
+
+#: admin/forms/add-new/field_style.php:60
+msgid "Placeholder Color"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:18
+msgid "In the following fields, you can use these mail-tags:"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:25
+msgid "Mail to the admin"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:29
+msgid "Mail to the user"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:32
+msgid "Save in database"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:37
+msgid "Mail to Admin"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:41 admin/forms/add-new/mails.php:75
+msgid "To"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:45 admin/forms/add-new/mails.php:79
+msgid "From Email"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:49 admin/forms/add-new/mails.php:83
+msgid "From Name"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:56 admin/forms/add-new/mails.php:91
+msgid "Subject"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:64 admin/forms/add-new/mails.php:98
+msgid "Message Body"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:71
+msgid "Mail to the User"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:105
+msgid "Save in Database"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:109
+msgid "Primary Email"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:113 admin/forms/add-new/modal.php:58
+#: admin/forms/add-new/style.php:117 admin/popups/add-new/style.php:163
+msgid "Title"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:123
+msgid "Body"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:130 admin/popups/add-new/close.php:35
+#: admin/popups/add-new/popup.php:33
+msgid "Notice!"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:133
+msgid "You can embed mail-tags anywhere in these fields:"
+msgstr ""
+
+#: admin/forms/add-new/mails.php:135
+msgid "The mail-tags are created based on attribute \"name\" for form fields."
+msgstr ""
+
+#: admin/forms/add-new/mails.php:135
+msgid ""
+"For Example, if the field for user email has attribute \"name\" = user-"
+"email, the mail-tag for the value of this field will be <b>{user-email}</b>."
+msgstr ""
+
+#: admin/forms/add-new/mails.php:137
+msgid ""
+"And then if you insert this mail-tag <b>{user-email}</b> into the field \"To"
+"\", the email will be send to user. Or if insert mail-tag <b>{user-email}</"
+"b> into \"Body\" you get the velue of this field"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:15
+msgid "Field Generator"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:18
+msgid "Required field"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:23
+msgid "Field Type"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:65
+msgid "Site key"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:65 admin/forms/add-new/recaptcha.php:23
+#, php-format
+msgid "Grab it <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:69
+msgid "Theme"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:76
+msgid "Size"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:87
+msgid "Name"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:91
+msgid "ID attribute"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:95
+msgid "Class attribute"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:103
+msgid "Placeholder"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:107
+msgid "Default value"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:111
+msgid "Height (rows)"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:120 admin/forms/add-new/modal.php:137
+msgid "Min"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:124 admin/forms/add-new/modal.php:141
+msgid "Max"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:128
+msgid "Step"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:152
+msgid "Options"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:157
+msgid "Allow multiple selections"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:160
+msgid "Put a label first"
+msgstr ""
+
+#: admin/forms/add-new/modal.php:172
+msgid "Insert"
+msgstr ""
+
+#: admin/forms/add-new/recaptcha.php:20
+msgid " Enable reCAPTCHA"
+msgstr ""
+
+#: admin/forms/add-new/recaptcha.php:23
+msgid "Secret key"
+msgstr ""
+
+#: admin/forms/add-new/recaptcha.php:27
+msgid "Scale"
+msgstr ""
+
+#: admin/forms/add-new/sending.php:25
+msgid "Hide Form"
+msgstr ""
+
+#: admin/forms/add-new/sending.php:33 admin/popups/add-new/close.php:20
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">More advanced closen</a>"
+msgstr ""
+
+#: admin/forms/add-new/sending.php:43
+msgid "Sender's message was sent successfully"
+msgstr ""
+
+#: admin/forms/add-new/sending.php:53
+msgid "Redirect URL"
+msgstr ""
+
+#: admin/forms/add-new/sending.php:65
+msgid "Sender's message failed to send"
+msgstr ""
+
+#: admin/forms/add-new/settings/button_style.php:25
+msgid "Specify width. Can be:"
+msgstr ""
+
+#: admin/forms/add-new/settings/button_style.php:27
+msgid ""
+"<strong>any integer value in px</strong> (for example: \"150px\" will set "
+"width to 150px);"
+msgstr ""
+
+#: admin/forms/add-new/settings/button_style.php:28
+msgid ""
+"<strong>any integer value in %</strong> (for example: \"80%\" will set width "
+"to 80% of the window width);"
+msgstr ""
+
+#: admin/forms/add-new/settings/button_style.php:29
+msgid "<strong>auto</strong> - the browser calculates the width."
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:25
+msgid "Specify form field margins. Can be:"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:27
+msgid ""
+"any integer value in px (for example: \"10px\" will set form field margins "
+"to 10px)"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:28
+#: admin/forms/add-new/settings/style.php:92
+msgid "if you enter 0, the form will have not margins"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:29
+#: admin/forms/add-new/settings/style.php:93
+#: admin/popups/add-new/settings/style.php:260
+msgid ""
+"when four values are specified, the margins apply to the top, right, bottom, "
+"and left in that order (clockwise)"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:46
+msgid "Specify form fild inner padding. Can be:"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:48
+#: admin/forms/add-new/settings/style.php:112
+msgid ""
+"any integer value in px (for example: \"10px\" will set form inner paddings "
+"to 10px)"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:49
+#: admin/forms/add-new/settings/style.php:113
+msgid "if you enter 0, the form will have not paddings"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:50
+#: admin/forms/add-new/settings/style.php:114
+#: admin/popups/add-new/settings/style.php:281
+#: admin/popups/add-new/settings/stylebtn.php:154
+msgid ""
+"when four values are specified, the paddings apply to the top, right, "
+"bottom, and left in that order (clockwise)"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:64
+#: admin/forms/add-new/settings/style.php:44
+msgid "Specify form background color."
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:83
+msgid "Set the font size for fields in px"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:160
+msgid "Specify color for input and textarea placeholder"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:162
+msgid "Not displayed in the form preview, but works on the frontend"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:179
+#: admin/forms/add-new/settings/style.php:131
+msgid "Specify form border radius in px."
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:204
+#: admin/forms/add-new/settings/style.php:161
+msgid "Choose a border style for your form."
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:250
+#: admin/forms/add-new/settings/style.php:207
+msgid "Outset - outer shadow of form"
+msgstr ""
+
+#: admin/forms/add-new/settings/field_style.php:251
+#: admin/forms/add-new/settings/style.php:208
+msgid "Inset - inner shadow of form"
+msgstr ""
+
+#: admin/forms/add-new/settings/mails.php:22
+msgid "Settings for sending email to admin."
+msgstr ""
+
+#: admin/forms/add-new/settings/mails.php:50
+#: admin/forms/add-new/settings/mails.php:98
+msgid "New letter from the site"
+msgstr ""
+
+#: admin/forms/add-new/settings/mails.php:70
+msgid "Settings for sending email to user."
+msgstr ""
+
+#: admin/forms/add-new/settings/mails.php:118
+msgid "Settings for saving email in database."
+msgstr ""
+
+#: admin/forms/add-new/settings/mails.php:127
+msgid "Enter Primary Email"
+msgstr ""
+
+#: admin/forms/add-new/settings/mails.php:137
+msgid "Maybe the User Name"
+msgstr ""
+
+#: admin/forms/add-new/settings/main.php:22
+msgid "Show this form the end of the each post on the site."
+msgstr ""
+
+#: admin/forms/add-new/settings/main.php:27
+msgid "Insert this shortcode into the page content for showing form."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:15
+msgid ""
+"Specifies that an input field must be filled out before submitting the form."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:19
+msgid "Select the type of field you want to add to the form."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:23
+msgid ""
+"Select the width that the field will occupy. 12/12 is a full width 100%."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:27
+msgid ""
+"Set a title for the field. It will be displayed at the top of the field."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:31
+msgid "Specifies the name of an element."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:35
+msgid "Specifies the ID of an element."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:39
+msgid ""
+"Adding Class attribute value of the element. To set two or more classes, you "
+"can use multiple class via space."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:43
+msgid "Specifies a short hint that describes the expected value of an element."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:47
+msgid "Specifies the value of an element."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:51
+msgid ""
+"The rows attribute specifies the visible height of a text area, in lines."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:55
+msgid "Specifies a minimum value for an element."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:59
+msgid "Specifies the maximum value for an element."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:63
+msgid "Specifies the legal number intervals for an input field."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:67
+msgid "Specifies that a user can enter more than one value in an element."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:71
+msgid ""
+"By default, a checkbox or a radio button are put first, and a label last. By "
+"select option, you can reverse them."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:75
+msgid "Enter all options. One option per line."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:77
+msgid ""
+"If you want Pre-checked/Pre-selected, enter * before name option as *Option."
+msgstr ""
+
+#: admin/forms/add-new/settings/modal.php:78
+msgid ""
+"If you want to enter the value for the option, use separate \"|\", for "
+"example: Option|25."
+msgstr ""
+
+#: admin/forms/add-new/settings/recaptcha.php:38
+msgid ""
+"The function is specified with either one or two values, which represent the "
+"amount of scaling to be applied in each direction"
+msgstr ""
+
+#: admin/forms/add-new/settings/sending.php:18
+msgid "Show confirmation text"
+msgstr ""
+
+#: admin/forms/add-new/settings/sending.php:19
+msgid "Redirect"
+msgstr ""
+
+#: admin/forms/add-new/settings/sending.php:41
+msgid ""
+"You can set the time in seconds after which the confirmation text of the "
+"successful sending will be hidden. And also set the closing of the popup, if "
+"the form is in it"
+msgstr ""
+
+#: admin/forms/add-new/settings/sending.php:63
+#: admin/popups/class-list-table.php:238
+msgid "Untitle Popup"
+msgstr ""
+
+#: admin/forms/add-new/settings/sending.php:68
+msgid "Not created yet"
+msgstr ""
+
+#: admin/forms/add-new/settings/sending.php:84
+msgid "Thank you for your message. It has been sent."
+msgstr ""
+
+#: admin/forms/add-new/settings/sending.php:93
+msgid "There was an error trying to send your message. Please try again later."
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:26
+msgid "Specify form width. Can be:"
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:28
+msgid ""
+"<strong>any integer value in px</strong> (for example: \"400px\" will set "
+"form width to 400px);"
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:29
+msgid ""
+"<strong>any integer value in %</strong> (for example: \"80%\" will set form "
+"width to 80% of the window width);"
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:30
+msgid "<strong>auto</strong> - the browser calculates the form width."
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:70
+msgid ""
+"Specify the window breakpoint (width) when the form will accept responsive "
+"rules defined below this option"
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:72
+msgid ""
+"any integer value (for example: 480 will set form responsive rules at 480px "
+"and resolutions below that value)"
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:89
+msgid "Specify form margins. Can be:"
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:91
+msgid ""
+"any integer value in px (for example: \"20px\" will set form margins to 20px)"
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:110
+msgid "Specify form inner padding. Can be:"
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:133
+msgid ""
+"any integer value in px (for example: \"10px\" will set border radius to "
+"10px)"
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:134
+msgid "if you enter 0, the form will have not radius"
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:135
+msgid ""
+"when four values are specified, the radius apply to the top, right, bottom, "
+"and left in that order (clockwise)"
+msgstr ""
+
+#: admin/forms/add-new/settings/style.php:315
+msgid "Set the font size for form Title content in px"
+msgstr ""
+
+#: admin/forms/add-new/style.php:23 admin/popups/add-new/style.php:41
+msgid "Background Color"
+msgstr ""
+
+#: admin/forms/add-new/style.php:27
+msgid "Responsive rule"
+msgstr ""
+
+#: admin/forms/add-new/style.php:140 admin/popups/add-new/style.php:190
+msgid "Align"
+msgstr ""
+
+#: admin/forms/add-new/targeting.php:33
+msgid "Emails"
+msgstr ""
+
+#: admin/forms/add-new/targeting.php:47
+#, php-format
+msgid ""
+"Need more <a href=\"%s\" target=\"_blank\">advanced targeting</a> options?"
+msgstr ""
+
+#: admin/forms/add_new.php:23
+msgid "Register a Form name"
+msgstr ""
+
+#: admin/forms/add_new.php:28
+msgid "Form"
+msgstr ""
+
+#: admin/forms/add_new.php:36
+msgid "Add New Field"
+msgstr ""
+
+#: admin/forms/add_new.php:38
+msgid "Drag the field to this area to remove"
+msgstr ""
+
+#: admin/forms/add_new.php:50
+msgid "Publish"
+msgstr ""
+
+#: admin/forms/add_new.php:55
+msgid "Show form after post content"
+msgstr ""
+
+#: admin/forms/add_new.php:85
+msgid "Form Style"
+msgstr ""
+
+#: admin/forms/add_new.php:86
+msgid "Field Style"
+msgstr ""
+
+#: admin/forms/add_new.php:88
+msgid "reCAPTCHA"
+msgstr ""
+
+#: admin/forms/add_new.php:89 admin/mails/main.php:35
+msgid "Mails"
+msgstr ""
+
+#: admin/forms/add_new.php:90
+msgid "After sending"
+msgstr ""
+
+#: admin/forms/class-list-table.php:239
+msgid "Untitle Form"
+msgstr ""
+
+#: admin/forms/main.php:37
+msgid "Forms"
+msgstr ""
+
+#: admin/general/main.php:54
+msgid "Welcome to Lead Generation"
+msgstr ""
+
+#: admin/general/main.php:57
+msgid ""
+"Congratulations! You are about to use a complete set of the most feature-"
+"rich tools for the marketing."
+msgstr ""
+
+#: admin/general/main.php:66
+msgid "About"
+msgstr ""
+
+#: admin/general/main.php:68
+msgid "Start saving time"
+msgstr ""
+
+#: admin/mails/class-mails-list-table.php:78
+msgid "View"
+msgstr ""
+
+#: admin/mails/class-mails-list-table.php:235
+msgid "Untitle Email"
+msgstr ""
+
+#: admin/mails/mails-data-base.php:17 admin/tools-data-base.php:6
+msgid "Record Added"
+msgstr ""
+
+#: admin/mails/mails-data-base.php:20 admin/tools-data-base.php:9
+msgid "Record Updated"
+msgstr ""
+
+#: admin/mails/mails-data-base.php:27 admin/tools-data-base.php:16
+msgid "Record Deleted"
+msgstr ""
+
+#: admin/mails/main.php:20 admin/mails/main.php:45
+msgid "View Mail"
+msgstr ""
+
+#: admin/mails/view_mail.php:38
+msgid "Message"
+msgstr ""
+
+#: admin/popups/add-new/close.php:25
+msgid "Click Overlay to Close"
+msgstr ""
+
+#: admin/popups/add-new/close.php:28
+msgid "Press ESC to Close"
+msgstr ""
+
+#: admin/popups/add-new/close.php:38
+msgid "You can close popup via click to the element with:"
+msgstr ""
+
+#: admin/popups/add-new/popup.php:17
+msgid "Triggers"
+msgstr ""
+
+#: admin/popups/add-new/popup.php:27
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">More advanced triggers</a>"
+msgstr ""
+
+#: admin/popups/add-new/popup.php:36
+msgid "You can open popup via adding to the element:"
+msgstr ""
+
+#: admin/popups/add-new/popup.php:47
+msgid "Animate In"
+msgstr ""
+
+#: admin/popups/add-new/popup.php:51
+msgid "Animate Out"
+msgstr ""
+
+#: admin/popups/add-new/popup.php:55
+msgid "Animation Speed (sec)"
+msgstr ""
+
+#: admin/popups/add-new/popup.php:63
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">More advanced animations</a>"
+msgstr ""
+
+#: admin/popups/add-new/popup.php:72
+msgid "Set the cookie time"
+msgstr ""
+
+#: admin/popups/add-new/popup.php:85
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">YouTube video Support</a>"
+msgstr ""
+
+#: admin/popups/add-new/settings/close.php:23
+msgid "Specify if overlay can close the modal or not."
+msgstr ""
+
+#: admin/popups/add-new/settings/close.php:36
+msgid "Enabled the ESC key to close the popup."
+msgstr ""
+
+#: admin/popups/add-new/settings/popup.php:20
+msgid "Click"
+msgstr ""
+
+#: admin/popups/add-new/settings/popup.php:21
+msgid "Auto"
+msgstr ""
+
+#: admin/popups/add-new/settings/popup.php:29
+msgid "Triggers cause a popup to open:"
+msgstr ""
+
+#: admin/popups/add-new/settings/popup.php:31
+msgid ""
+"<strong>Click</strong> - if you wish to activate the popup manually on "
+"element click;"
+msgstr ""
+
+#: admin/popups/add-new/settings/popup.php:32
+msgid "<strong>Auto</strong> - popup will activate when the page loads;"
+msgstr ""
+
+#: admin/popups/add-new/settings/popup.php:45
+msgid "fadeIn"
+msgstr ""
+
+#: admin/popups/add-new/settings/popup.php:51
+msgid "Specify modal window transition open effect."
+msgstr ""
+
+#: admin/popups/add-new/settings/popup.php:61
+msgid "fadeOut"
+msgstr ""
+
+#: admin/popups/add-new/settings/popup.php:67
+msgid "Specify modal window transition close effect."
+msgstr ""
+
+#: admin/popups/add-new/settings/popup.php:86
+msgid "Specify popup animation effect speed in seconds."
+msgstr ""
+
+#: admin/popups/add-new/settings/popup.php:100
+msgid ""
+"Defines if the popup will set a cookie and hide it self for a period of time "
+"from the user.  Set the cookie in days."
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:23
+msgid ""
+"Specify if overlay should be active or not. If you uncheck, the modal will "
+"have no background overlay."
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:60
+msgid "Center location on the page"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:161
+msgid "Fixed"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:162
+msgid "Absolute"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:168
+msgid "Set the positioning of the popup. Can be:"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:170
+msgid ""
+"<strong>fixed</strong> - popup is positioned relative to the browser window;"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:171
+msgid ""
+"<strong>absolute</strong> - the popup is positioned relative to its place;"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:188
+msgid "Specify modal window width. Can be:"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:190
+msgid ""
+"<strong>any integer value in px</strong> (for example: \"400px\" will set "
+"popup width to 400px);"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:191
+msgid ""
+"<strong>any integer value in %</strong> (for example: \"80%\" will set popup "
+"width to 80% of the window width);"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:192
+msgid "<strong>auto</strong> - the browser calculates the popup width."
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:209
+msgid "Specify modal window height. Can be:"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:211
+msgid ""
+"<strong>any integer value in px</strong> (for example: \"400px\" will set "
+"popup height to 400px);"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:212
+msgid ""
+"<strong>any integer value in %</strong> (for example: \"80%\" will set popup "
+"height to 80% of the window height);"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:213
+msgid "<strong>auto</strong> - the browser calculates the popup height."
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:227
+msgid "Specify modal window background color."
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:240
+msgid ""
+"Specify the modal window background image. Enter the URL of the image which "
+"you want to use as a background."
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:256
+msgid "Specify modal window margins. Can be:"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:258
+msgid ""
+"any integer value in px (for example: \"20px\" will set popup margins to "
+"20px)"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:259
+msgid "if you enter 0, the popup will have not margins"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:277
+msgid "Specify modal window inner padding. Can be:"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:279
+#: admin/popups/add-new/settings/stylebtn.php:152
+msgid ""
+"any integer value in px (for example: \"10px\" will set popup inner paddings "
+"to 10px)"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:280
+#: admin/popups/add-new/settings/stylebtn.php:153
+msgid "if you enter 0, the popup will have not paddings"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:301
+msgid "Specify modal window border radius in px."
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:326
+msgid "Choose a border style for your popup."
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:372
+msgid "Outset - outer shadow of popup"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:373
+msgid "Inset - inner shadow of popup"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:480
+msgid "Set the font size for popup content in px"
+msgstr ""
+
+#: admin/popups/add-new/settings/style.php:499
+msgid ""
+"The line-height property defines the amount of space above and below inline "
+"elements in px."
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:32
+msgid "Top Right location on the popup"
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:33
+msgid "Top Left location on the popup"
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:34
+msgid "Bottom Left location on the popup"
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:35
+msgid "Bottom Right location on the popup"
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:42
+msgid "Specify close button location."
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:61
+msgid "Distance from the top edge of the popup in px."
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:80
+msgid "Distance from the bottom  edge of the popup in px."
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:99
+msgid "Distance from the left edge of the popup in px."
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:118
+msgid "Distance from the right edge of the popup in px."
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:134
+msgid "Enter the close button text."
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:150
+msgid "Specify button text inner padding. Can be:"
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:171
+msgid "Specify box size for close button icon."
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:201
+msgid "Set the font size for close button content in px"
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:268
+msgid "Specify popup close button color."
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:284
+msgid "Specify popup close button hover text color."
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:300
+msgid "Specify popup close button background color."
+msgstr ""
+
+#: admin/popups/add-new/settings/stylebtn.php:316
+msgid "Specify popup close button hover background color."
+msgstr ""
+
+#: admin/popups/add-new/settings/targeting.php:69
+msgid ""
+"The Action is a click on something in an open popup, such as a link or a "
+"button. To calculate the Action add the class \"lg-popup-action\" to the "
+"link or button that is inserted into the content of the popup."
+msgstr ""
+
+#: admin/popups/add-new/style.php:18
+msgid "Overlay"
+msgstr ""
+
+#: admin/popups/add-new/style.php:26
+msgid "Position"
+msgstr ""
+
+#: admin/popups/add-new/style.php:49
+msgid "Background Image URL"
+msgstr ""
+
+#: admin/popups/add-new/style.php:171
+msgid "Line Height"
+msgstr ""
+
+#: admin/popups/add-new/style.php:209
+msgid "Content"
+msgstr ""
+
+#: admin/popups/add-new/stylebtn.php:17
+msgid "Close Button type"
+msgstr ""
+
+#: admin/popups/add-new/stylebtn.php:66
+msgid "Box Size"
+msgstr ""
+
+#: admin/popups/add_new.php:23
+msgid "Register a popup name"
+msgstr ""
+
+#: admin/popups/add_new.php:49
+msgid "Preview"
+msgstr ""
+
+#: admin/popups/add_new.php:50
+msgid "You can preview the changed settings after the click \"Update\"."
+msgstr ""
+
+#: admin/popups/add_new.php:81
+msgid "Popup Settings"
+msgstr ""
+
+#: admin/popups/add_new.php:82
+msgid "Close Settings"
+msgstr ""
+
+#: admin/popups/add_new.php:83
+msgid "Popup Style"
+msgstr ""
+
+#: admin/popups/add_new.php:84
+msgid "Close Button Style "
+msgstr ""
+
+#: admin/popups/main.php:37
+msgid "Popups"
+msgstr ""
+
+#: leadgeneration.php:66 leadgeneration.php:78
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Lead Generation"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/leadgeneration/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The easiest way for Lead Generation with WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Dmytro Lobov"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://dayes.co/"
+msgstr ""
